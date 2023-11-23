@@ -1,0 +1,5 @@
+4
+circle 5 11 4
+Square 17 16 6
+Square 9 5 4
+Triangle 19 10 6 																																																									

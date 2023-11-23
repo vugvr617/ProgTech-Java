@@ -1,0 +1,6 @@
+5
+Triangle -8 9 4
+Square 8 9 6
+Rectangle -12 -10 2
+Hexagon -2 -11 2
+Triangle 10 -8 4

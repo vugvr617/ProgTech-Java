@@ -1,0 +1,5 @@
+4
+triangle -8 9 4
+square 8 9 6
+circle -12 -10 0
+triangle 10 -8 4
